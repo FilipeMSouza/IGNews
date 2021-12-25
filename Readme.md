@@ -25,6 +25,9 @@
   - Icons that are used is from react-icons
     - [react-icons](https://react-icons.github.io/react-icons/)
 
+  - Authentication usin next-auth
+    - [Authentication Docs](https://next-auth.js.org/)
+
 ## Furthermore I'll be detaling more this project
 
 - By now See you on github
