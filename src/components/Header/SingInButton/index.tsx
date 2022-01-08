@@ -12,15 +12,19 @@ export function SingInButton() {
 
     <button
       className={styles.SingInButton}
-      type="button"
-      onClick={() => signOut()}
+      
     >
       <FaGithub color='#04d361' />
         {session.user.name}
+      <button
+       className={styles.SingOutButton}
+      type="button"
+      onClick={() => signOut()}>
       <FiX 
       color='#737380' 
       className={styles.closeIcon}
       />
+      </button>
     </button>
 
   ) : (
