@@ -30,4 +30,10 @@
 
 ## Furthermore I'll be detaling more this project
 
+## 1/14/2021 - Building final project
+  
+- This represents the end of this project
+  - Thank you for see what is about, I expect you enjoyed this project.
+  - It means it is our lats good bay on this project
+
 - By now See you on github
